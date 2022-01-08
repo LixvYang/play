@@ -1,0 +1,7 @@
+{
+  "play.back|block": "reverse at full speed",
+  "play.brake|block": "brake",
+  "play.forward|block": "go straight at full speed",
+  "play|block": "play",
+  "{id:category}play"play"
+}

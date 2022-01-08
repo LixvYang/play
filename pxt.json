@@ -1,7 +1,7 @@
 {
     "name": "play",
     "version": "1.1.1",
-    "description": "Extension to control",
+    "description": "Extension to control the www.github.com",
     "license": "MIT",
     "dependencies": {
         "core": "*",
@@ -10,6 +10,8 @@
     "files": [
         "README.md",
         "play.ts",
+        "_locales/es/eboticsMIBO-strings.json",
+        "_locales/es/eboticsMIBO-jsdoc-strings.json"
     ],
     "testFiles": [
         "tests.ts"

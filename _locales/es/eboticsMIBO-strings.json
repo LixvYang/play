@@ -1,0 +1,7 @@
+{
+  "play.back|block": "retroceder a toda velocidad",
+  "play.brake|block": "frenar",
+  "play.forward|block": "avanzar a toda velocidad",
+  "play|block": "play",
+  "{id:category}play": "play"
+}

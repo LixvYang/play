@@ -1,0 +1,6 @@
+{
+  "play": "Use this file to define custom functions and blocks.\nRead more at https://makecode.microbit.org/blocks/custom",
+  "play.back": "play: full speed move back",
+  "play.stop": "play: stop",
+  "play.forward": "play: full speed move forward",
+}

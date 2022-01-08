@@ -3,7 +3,7 @@
 
 
 //% weight=0 color=#0fbc11  icon="\uf207" block="play1"
-namespace play1 {
+namespace play {
 
 
     /**
