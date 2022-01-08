@@ -1,0 +1,19 @@
+{
+    "name": "play",
+    "version": "1.1.1",
+    "description": "Extension to control",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neoPixel": "github:microsoft/pxt-neopixel"
+    },
+    "files": [
+        "README.md",
+        "play.ts",
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj"
+}
