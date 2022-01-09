@@ -11,9 +11,9 @@ namespace play {
     */
     //% weight=9
     //% blockId=play_forward block="forward"
-    export function forward () {
+    export function forward() {
     pins.analogWritePin(AnalogPin.P0, 0)
-    pins.analogWritePin(AnalogPin.P1, 0)
+    pins.analogWritePin(AnalogPin.P1, 1023)
     pins.analogWritePin(AnalogPin.P3, 512)
     pins.analogWritePin(AnalogPin.P4, 512)
 }
