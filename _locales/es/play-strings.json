@@ -1,0 +1,10 @@
+{
+  "play.back|block": "reverse at full speed",
+  "play.stop|block": "stop",
+  "play.forward|block": "go straight at full speed",
+  "play.right|block": "full speed move right",
+  "play.left|block": "full speed turn left",
+  "play.ok|block": "ok",
+  "play|block": "play",
+  "{id:category}play: "play"
+}

@@ -3,4 +3,7 @@
   "play.back": "play: full speed move back",
   "play.stop": "play: stop",
   "play.forward": "play: full speed move forward",
+  "play.right": "play: full speed move right",
+  "play.left": "play: full speed turn left",
+  "play.ok": "play: ok"
 }

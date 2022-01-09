@@ -1,6 +1,0 @@
-{
-  "play": "Utiliza este archivo para definir funciones y bloques personalizados. https://makecode.microbit.org/blocks/custom",
-  "play.back": "play: retroceder a toda velocidad",
-  "play.stop": "play: stop",
-  "play.forward": "play: avanzar a toda velocidad",
-}

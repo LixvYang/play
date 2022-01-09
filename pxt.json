@@ -1,17 +1,16 @@
 {
     "name": "play",
     "version": "1.1.1",
-    "description": "Extension to control the www.github.com",
+    "description": "Extension to control the www.github.com/llll0",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "neoPixel": "github:microsoft/pxt-neopixel"
+        "core": "*"
     },
     "files": [
         "README.md",
         "play.ts",
-        "_locales/es/eboticsMIBO-strings.json",
-        "_locales/es/eboticsMIBO-jsdoc-strings.json"
+        "_locales/es/play-strings.json",
+        "_locales/es/play-jsdoc-strings.json"
     ],
     "testFiles": [
         "tests.ts"

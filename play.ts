@@ -70,7 +70,14 @@ namespace play {
     pins.analogWritePin(AnalogPin.P3, 1023)
     pins.analogWritePin(AnalogPin.P4, 1023)
 }
-
+    /**
+    * PLAY: ok
+    */
+    //% weight=5
+    //% blockId=play_ok block="ok"
+    export function ok () {
+    basic.showString("ok")
+}
 
 
 }
