@@ -10,8 +10,8 @@ namespace play {
     * PLAY: full speed move right
     */
     //% weight=9
-    //% blockId=play_right block="right"
-    export function right () {
+    //% blockId=play_forward block="forward"
+    export function forward () {
     pins.analogWritePin(AnalogPin.P0, 0)
     pins.analogWritePin(AnalogPin.P1, 0)
     pins.analogWritePin(AnalogPin.P3, 512)
@@ -73,7 +73,7 @@ namespace play {
     /**
     * PLAY: ok
     */
-    //% weight=5
+    //% weight=4
     //% blockId=play_ok block="ok"
     export function ok () {
     basic.showString("ok")
