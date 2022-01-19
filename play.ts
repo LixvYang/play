@@ -16,6 +16,7 @@ namespace play {
     pins.analogWritePin(AnalogPin.P1, 1023)
     pins.analogWritePin(AnalogPin.P3, 512)
     pins.analogWritePin(AnalogPin.P4, 512)
+    basic.showArrow(ArrowNames.North)
 }
 
 
@@ -29,6 +30,7 @@ namespace play {
     pins.analogWritePin(AnalogPin.P1, 0)
     pins.analogWritePin(AnalogPin.P3, 512)
     pins.analogWritePin(AnalogPin.P4, 512)
+    basic.showArrow(ArrowNames.South)
 }
 
 
@@ -43,6 +45,7 @@ namespace play {
     pins.analogWritePin(AnalogPin.P1, 1023)
     pins.analogWritePin(AnalogPin.P3, 512)
     pins.analogWritePin(AnalogPin.P4, 512)
+    basic.showArrow(ArrowNames.West)
 }
 
 
@@ -56,6 +59,7 @@ namespace play {
     pins.analogWritePin(AnalogPin.P1, 0)
     pins.analogWritePin(AnalogPin.P3, 512)
     pins.analogWritePin(AnalogPin.P4, 512)
+    basic.showArrow(ArrowNames.East)
 }
 
 
@@ -69,6 +73,7 @@ namespace play {
     pins.analogWritePin(AnalogPin.P1, 1023)
     pins.analogWritePin(AnalogPin.P3, 1023)
     pins.analogWritePin(AnalogPin.P4, 1023)
+    basic.showString("Stop")
 }
     /**
     * PLAY: ok
